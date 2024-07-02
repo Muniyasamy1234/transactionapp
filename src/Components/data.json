@@ -1,0 +1,25 @@
+{
+    "transaction":[
+        {
+            "name":"Aokiji",
+            "time":"28 Feb 2023 . 06:23 PM",
+            "money":"+$13.00",
+            "update":"Received",
+            "img":"https://previews.123rf.com/images/marcelokrelling/marcelokrelling1402/marcelokrelling140200433/42373896-handsome-boy-smiling.jpg"
+        },
+        {
+            "name":"Kizaru",
+            "time":"28 Feb 2023 . 06:23 PM",
+            "money":"-$9.00",
+            "update":"Outgoing",
+            "img":"https://as2.ftcdn.net/v2/jpg/01/95/65/17/1000_F_195651759_479r5S6Rx77XBSLHJQY2qd2xiwiRGAxB.jpg"
+        },
+        {
+            "name":"Akaninu",
+            "time":"28 Feb 2023 . 06:23 PM",
+            "money":"+$20.00",
+            "update":"Received",
+            "img":"https://static1.bigstockphoto.com/8/5/3/large1500/358902766.jpg"
+        }
+    ]
+}
